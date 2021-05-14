@@ -1,0 +1,80 @@
+Script started on Thu May 13 17:56:07 2021
+[?2004hbash-5.1$ script[K[K[K[K[K[Kclear
+[?2004l[H[2J[?2004hbash-5.1$ script[K[K[K[K[K[K./script.sh
+[?2004lscript.sh	typescript
+/Users/TL917/test1
+TL917
+Имя пользователя TL917
+evgen Имя пользователя
+Мое расположение /Users/TL917/test1
+Мое расположение 2 /Users/TL917/test1
+[?2004hbash-5.1$ ./script.sh
+[?2004lscript.sh	typescript
+/Users/TL917/test1
+TL917
+Имя пользователя TL917
+evgen Имя пользователя
+Мое расположение /Users/TL917/test1
+Мое расположение 2 /Users/TL917/test1
+25
+[?2004hbash-5.1$ ./script.sh
+[?2004lscript.sh	typescript
+/Users/TL917/test1
+TL917
+Имя пользователя TL917
+evgen Имя пользователя
+Мое расположение /Users/TL917/test1
+Мое расположение 2 /Users/TL917/test1
+-5
+[?2004hbash-5.1$ git status
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004hbash-5.1$ git push
+[?2004lfatal: not a git repository (or any of the parent directories): .git
+[?2004hbash-5.1$ clear
+[?2004l[H[2J[?2004hbash-5.1$ chmod =[K+x =if[K[Kif[K[K if_script.sh
+[?2004lchmod: =: No such file or directory
+[?2004hbash-5.1$ chmod =[K+x +[K= /if_script.sh
+[?2004lchmod: =: No such file or directory
+chmod: /if_script.sh: No such file or directory
+[?2004hbash-5.1$ chmod +x -[K= if_script.sh
+[?2004lchmod: =: No such file or directory
+[?2004hbash-5.1$ chmod +x if_script.sh
+[?2004l[?2004hbash-5.1$ ./if_script.sh
+[?2004l[?2004hbash-5.1$ ./if script.sh
+[?2004lbash: ./if: No such file or directory
+[?2004hbash-5.1$ ./if_script.sh
+[?2004l[?2004hbash-5.1$ chmod +x if?[K_script.sh
+[?2004l[?2004hbash-5.1$ ./id[Kf_script.sh
+[?2004l[?2004hbash-5.1$ ю[K./if_script.sh
+[?2004l[?2004hbash-5.1$ [7m./if_script.sh[27m[C[C[C[C[C[C[C[C[C[C./if_script.sh
+[?2004l[?2004hbash-5.1$ clr[Kear
+[?2004l[H[2J[?2004hbash-5.1$ /[K./script.[K[K[K[K[K[K[Kif_script.sh
+[?2004lNo such user
+[?2004hbash-5.1$ ./script.sh
+[?2004lif_script.sh	script.sh	typescript
+/Users/TL917/test1
+TL917
+Имя пользователя TL917
+evgen Имя пользователя
+Мое расположение /Users/TL917/test1
+Мое расположение 2 /Users/TL917/test1
+-5
+[?2004hbash-5.1$ ./script.sh
+[?2004lif_script.sh	script.sh	typescript
+/Users/TL917/test1
+TL917
+Имя пользователя TL917
+evgen Имя пользователя
+Мое расположение /Users/TL917/test1
+Мое расположение 2 /Users/TL917/test1
+-5
+./script.sh: line 19: syntax error near unexpected token `fi'
+./script.sh: line 19: `fi'
+[?2004hbash-5.1$ clear
+[?2004l[H[2J[?2004hbash-5.1$ ./id[Kf-script.sh
+[?2004lbash: ./if-script.sh: No such file or directory
+[?2004hbash-5.1$ ./if_script.sh
+[?2004lNo such user
+[?2004hbash-5.1$ [7m./if_script.sh[27m[C[C[C[C[C[C[C[C[C[C./if_script.sh
+[?2004l./if_script.sh: line 3: Bystrov: command not found
+./if_script.sh
